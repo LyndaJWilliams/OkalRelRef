@@ -1,0 +1,27 @@
+/* CSS for ORU Concordance -  ORUccd.css */
+
+nav { background-color: Cornsilk; font-family: fantasy; font-size: 1.5em; padding:3px;}
+
+h1.character {color:blue; }
+h1.place {color:SaddleBrown; }
+h1.work {color: Maroon;} 
+h1.vocab {color:Coral;}
+
+span.date {font-size: .8em; color: SlateGray; border:0;}
+span.work {font-style:italic; }
+
+.intro { background-image: linear-gradient(LightSteelBlue,Gainsboro); padding:6px;
+    }
+.stats {font-size: .8em; font-style: oblique; margin-top: 1em; }
+
+article { color:black; background-color: LightBlue; padding: 4px;
+        overflow: hidden;}
+
+figure { float:right; border:0px; width:50%; background-color: LightSteelBlue; max-width: 400px;}
+figcaption { font-size: small; font-style:italic; font-weight: bold; text-align:justify; width:100%; max-width: 400px; padding:3px; }
+img.prime { width:100%; margin: auto; max-width:400px;  }
+
+.chronology dt { font-weight: bold; margin-top: .5em;
+}
+.chronology dd {
+}
