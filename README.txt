@@ -8,4 +8,4 @@ Anyone is welcome to copy and use the reference materials in this repository. Pl
 
 Works set in the Okal Rel Universe (e.g. novels, short stories, graphic novels, etc.) are copyrighted to Reality Skimming Press unless explicitly shared with a Creative Commons License. Extracts, quotations, etc. are available for use under the guidelines of Canada's Fair Dealing copyright laws. 
 
-For more about Reality Skimming Press see http://facebook.com/relskim or http://realityskimming.com
+For more about Reality Skimming Press see http://facebook.com/relskim or http://realityskimming.com or http://okalrel.org
